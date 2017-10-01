@@ -1,1 +1,7 @@
 /target
+
+#windows
+.settings
+target
+*.classpath
+*.project
